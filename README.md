@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sennason
-- 👀 I’m interested in ..
+- 👀 I’m interested in ..s
 - 🌱 I’m currently learning ..ds
 - 💞️ I’m looking to collaborate on ..gf
 - 📫 How to reach me ...

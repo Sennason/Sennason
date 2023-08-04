@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sennason
 - 👀 I’m interested in ..sf
 - 🌱 I’m currently learning ..ds
-- 💞️ I’m looking to collaborate on ..gf
+- 💞️ I’m looking to collaborate on ..gfa
 - 📫 How to reach me ...
 sdsd
 <!---rr

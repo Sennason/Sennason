@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sennason
+- 👋 Hi, I’m @Sennasong
 - 👀 I’m interested in ..sf
 - 🌱 I’m currently learning ..dspo
 - 💞️ I’m looking to collaborate on ..gfa
